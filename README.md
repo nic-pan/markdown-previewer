@@ -1,2 +1,2 @@
-# markdown-previewer
-Markdown Previewer - a FreeCodeCamp course project.
+# Markdown Previewer 
+A FreeCodeCamp course project.
